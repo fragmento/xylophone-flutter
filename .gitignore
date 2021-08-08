@@ -1,3 +1,5 @@
+### Flutter Generated
+
 # Miscellaneous
 *.class
 *.lock
@@ -99,6 +101,10 @@ unlinked_spec.ds
 **/ios/Flutter/flutter_export_environment.sh
 **/ios/ServiceDefinitions.json
 **/ios/Runner/GeneratedPluginRegistrant.*
+*.xcworkspace
+*.xcworkspacedata
+*.xcconfig
+*.pbxproj
 
 # macOS
 **/macos/Flutter/GeneratedPluginRegistrant.swift
